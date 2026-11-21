@@ -17,3 +17,8 @@ updates:
     directory: "/.devcontainer"
     schedule:
       interval: "weekly"
+  - package-ecosystem: "gitsubmodule"
+    directory: "/ugfx"
+    schedule:
+      interval: "weekly"
+
